@@ -8,8 +8,7 @@ An interactive Business Intelligence dashboard built in Tableau, analyzing over 
 ---
 
 ## 📊 Dashboard Preview
-![Zomato Dashboard Preview](<img width="1918" height="1165" alt="Zomato-Restaurant-Analytics" src="https://github.com/user-attachments/assets/957c124e-537e-45cf-a98d-e8b47b3ca8bf" />
-)
+![Zomato Dashboard Preview](Zomato-Restaurant-Analytics.png)
 
 ---
 
